@@ -8,8 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "@trussworks/react-uswds": "5.1.1",
-    "@uswds/uswds": "3.1.0",
+    "@trussworks/react-uswds": "^6.0.0",
+    "@uswds/uswds": "3.6.0",
     "next": "13.4.12",
     "react": "18.2.0",
     "react-dom": "18.2.0"
